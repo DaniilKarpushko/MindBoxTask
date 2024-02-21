@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0ec13b45_002D6c85_002D4538_002D923e_002De182b6d40f5a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GeometricLibTriangleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C936E268-D10B-414A-A236-9FC6EF02B3CB::net7.0::GeometricLibTests.GeometricLibTriangleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C936E268-D10B-414A-A236-9FC6EF02B3CB::net7.0::GeometricLibTests.GeometricLibTestSquareTest.CircleSquareTestWithFloatNumbersTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C936E268-D10B-414A-A236-9FC6EF02B3CB::net7.0::GeometricLibTests.GeometricLibTestSquareTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

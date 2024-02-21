@@ -1,0 +1,11 @@
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\bin\Debug\net7.0\MindboxTask.deps.json
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\bin\Debug\net7.0\MindboxTask.dll
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\bin\Debug\net7.0\MindboxTask.pdb
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\MindboxTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\MindboxTask.AssemblyInfoInputs.cache
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\MindboxTask.AssemblyInfo.cs
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\MindboxTask.csproj.CoreCompileInputs.cache
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\MindboxTask.dll
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\refint\MindboxTask.dll
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\MindboxTask.pdb
+C:\Users\antikill\Desktop\GitHub\MindsetTask\MindboxTask\MindboxTask\obj\Debug\net7.0\ref\MindboxTask.dll
