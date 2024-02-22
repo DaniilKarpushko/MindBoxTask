@@ -15,7 +15,7 @@ public class RectangularTriangleTestCase : IEnumerable<object[]>
         
         yield return new object[]
         {
-            new TriangleShape(1, 4, 5),
+            new TriangleShape(2, 4, 5),
             false,
         };
         
